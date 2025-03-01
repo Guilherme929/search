@@ -25,4 +25,4 @@ O programa permite que o usuário busque um arquivo ou diretório específico no
 Para buscar por um arquivo ou diretório específico:
 
 ```bash
-$ ./buscar_arquivo nome_do_arquivo
+$ ./search nome_do_arquivo
