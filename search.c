@@ -17,7 +17,7 @@ int search_callback(const char *path, const struct stat *sb, int typeflag, struc
 
     // Verifica se o nome do arquivo/diretório é o que estamos procurando
     if (filename && strcmp(filename, target_filename) == 0) {
-        printf("Encontrado: %s\n", path);
+        printf("%s\n", path);
     }
 
     return 0;
