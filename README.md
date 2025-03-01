@@ -26,6 +26,8 @@ Para buscar por um arquivo ou diretório específico:
 
 ```bash
 $ gcc -o search search.c -lftw
+```
 
-
+```bash
 $ ./search nome_do_arquivo
+```
