@@ -3,7 +3,7 @@
 Este script em C tem como objetivo realizar uma busca recursiva por arquivos ou diretórios em todo o sistema de arquivos, localizando um item específico fornecido pelo usuário. O script utiliza a biblioteca `ftw.h` (File Tree Walk) para realizar a varredura dos arquivos e diretórios de forma eficiente.  
 
 📷 **Demonstração:**  
-*(Aqui você pode inserir uma imagem mostrando o terminal rodando o script, com um exemplo de busca e resultado.)*  
+ 
 
 ---
 
