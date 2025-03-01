@@ -25,7 +25,7 @@ O programa permite que o usuário busque um arquivo ou diretório específico no
 Para buscar por um arquivo ou diretório específico:
 
 ```bash
-$ gcc -o search search.c -lftw
+$ gcc -o search search.c
 ```
 
 ```bash
