@@ -30,6 +30,12 @@ O programa permite que o usuário busque um arquivo ou diretório específico no
 Para buscar por um arquivo ou diretório específico:  
 
 ```bash
+$ git clone https://github.com/Guilherme929/search
+```
+```bash
+$ cd search
+```
+```bash
 $ gcc -o search search.c
 ```
 ```bash
