@@ -4,7 +4,7 @@ Este script em C tem como objetivo realizar uma busca recursiva por arquivos ou 
 
 📷 **Demonstração:**  
  
-
+![Demonstração do script](./image.png)
 ---
 
 ## 🔍 Funcionalidade  
